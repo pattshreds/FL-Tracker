@@ -1,7 +1,7 @@
 const Header = () => {
     return (
         <div className="title">
-            Friction Labs Production
+            Friction Labs Production Team
         </div>
     )
 }
