@@ -1,7 +1,9 @@
+import '../styles/headerStyles.css';
+
 const Header = () => {
     return (
-        <div className="title">
-            Friction Labs Production Team Rules
+        <div className="header-container">
+            <h1>Friction Labs Production</h1>
         </div>
     )
 }

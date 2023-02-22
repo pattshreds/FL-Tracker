@@ -1,0 +1,11 @@
+.homepage-container {
+    border: 2px solid red;
+    margin: 5em 1em 0 1em;
+    height: 25em;
+}
+
+.table, th {
+    width: 5em;
+    height: 5em;
+    border: 2px solid black;
+}
