@@ -1,12 +1,12 @@
 import Header from './components/Header';
-import Homepage from './components/Homepage';
+import Weekly from './components/Weekly';
 import './index.css';
 
 const App = () => {
   return (
     <div className="container">
       <Header />
-      <Homepage />
+      <Weekly />
     </div> 
   )
 };
